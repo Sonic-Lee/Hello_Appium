@@ -1,0 +1,16 @@
+person1:
+  name: "xiaoming"
+  age: 23
+  sex: "male"
+  height: 175
+  weight: 64
+  project:
+    python: 60
+    C++: 80
+
+person2:
+  name: "xiaohong"
+  age: 21
+  sex: "female"
+  height: 165
+  weight: 50
